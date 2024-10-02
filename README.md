@@ -1,4 +1,4 @@
-# AVIA
+# AVIA Родионов Иван, Вольф Арина
 Откройте пайтон код и запустите его
 import tkinter as tk
 from tkinter import *
